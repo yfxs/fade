@@ -1,4 +1,4 @@
 everything i need
 When your talent can't afford your ambitions you should settle down to study.
 Git tracks changes of files
-Greating a new branch is quick & simple
+Creating a new branch is quick and simple
